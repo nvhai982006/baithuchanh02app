@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Baithuchanh2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#00796B</item>
+        <item name="colorPrimaryVariant">#00796B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#00897B</item>
+        <item name="colorSecondaryVariant">#00796B</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <!-- Status bar color matching header color #00796B -->
+        <item name="android:statusBarColor">#00796B</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Theme.Baithuchanh2" parent="Base.Theme.Baithuchanh2" />
+</resources>

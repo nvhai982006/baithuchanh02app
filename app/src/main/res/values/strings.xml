@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+    <string name="login_title">Quản lý chi tiêu</string>
+    <string name="login_subtitle">Đăng nhập để tiếp tục</string>
+    <string name="label_username">Tên đăng nhập</string>
+    <string name="hint_username">Nhập tên đăng nhập</string>
+    <string name="label_password">Mật khẩu</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="login_sample_account">Tài khoản mẫu: admin / 123456</string>
+    <string name="error_invalid_login">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="error_empty_login">Tên đăng nhập và mật khẩu còn trống</string>
+
+    <string name="main_total_title">Tổng số tiền đã chi</string>
+    <string name="main_list_title">Danh sách khoản chi</string>
+    <string name="hint_click_detail">(nhấn vào một khoản chi để xem chi tiết)</string>
+    <string name="btn_add_expense">+ Thêm khoản chi</string>
+
+    <string name="add_title">Thêm khoản chi</string>
+    <string name="label_name">Tên khoản chi</string>
+    <string name="hint_name">Ví dụ: Ăn trưa</string>
+    <string name="label_amount">Số tiền (VNĐ)</string>
+    <string name="hint_amount">Chỉ nhập số, ví dụ: 45000</string>
+    <string name="label_category">Danh mục</string>
+    <string name="label_date">Ngày chi tiêu</string>
+    <string name="label_note">Ghi chú</string>
+    <string name="hint_note">Nhập ghi chú (nhiều dòng)&#8230;</string>
+    <string name="btn_save">Lưu khoản chi</string>
+
+    <string name="detail_title">Chi tiết khoản chi</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete">Xóa khoản chi</string>
+
+    <string name="err_empty_name">Không được để trống tên</string>
+    <string name="err_empty_amount">Không được để trống số tiền</string>
+    <string name="err_invalid_amount">Số tiền quá lớn hoặc không hợp lệ</string>
+    <string name="err_amount_gt_zero">Số tiền phải lớn hơn 0</string>
+    <string name="msg_save_success">Đã lưu khoản chi thành công!</string>
+</resources>
